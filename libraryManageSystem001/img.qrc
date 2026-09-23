@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1234.png</file>
+        <file>zhuye.png</file>
+        <file>personalCenter1.jpg</file>
+        <file>register.png</file>
+        <file>change.png</file>
+        <file>reg.png</file>
+        <file>addbook1.jpg</file>
+        <file>rent.jpg</file>
+        <file>login.jpg</file>
+    </qresource>
+</RCC>
